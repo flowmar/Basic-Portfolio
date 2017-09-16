@@ -1,9 +1,15 @@
-# Basic-Portfolio
+# **Basic Portfolio**
 
-[Basic Portfolio Live Link]('https://flowmar.github.io/Basic-Portfolio')
+## *Concepts: Basic HTML and CSS Positioning*
 
 ---
-From The Houston Coding Boot Camp:
+
+In this assignment, we were tasked to create a portfolio page that has an index, portfolio and contact page.
+
+---
+
+## Assignment:
+
 
     ## Week 1 (Recommended) Assignment - That Portfolio Though
 
@@ -63,7 +69,7 @@ From The Houston Coding Boot Camp:
 
     9. Push your changes to Github.
 
-    ### Additional Specifcations
+    ### Additional Specifications
 
     1. Colors _Pro-tip: Use the [Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka) Chrome extension to find the colors used on web pages._
 
@@ -122,7 +128,22 @@ From The Houston Coding Boot Camp:
 
     Coding Boot Camp © 2016. All Rights Reserved.
 
-## Technologies Used
 
-- HTML
-- CSS
+---
+
+## Deployment
+
+The project was deployed to GitHub pages as:
+[Basic-Portfolio.](https://flowmar.github.io/Basic-Portfolio)
+
+The source code is located [here](https://github.com/flowmar/Basic-Portfolio).
+
+---
+
+## About the Author
+
+### Omar Imam
+
+Find me on: [GitHub](https://github.com/flowmar/)
+Portfolio: [Flowmar](https://flowmar.gwiddle.co.uk/)
+Connect with me on [LinkedIn](https://linkedin.com/in/flowmar)
