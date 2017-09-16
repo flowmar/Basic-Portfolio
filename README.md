@@ -48,7 +48,7 @@ In this assignment, we were tasked to create a portfolio page that has an index,
 
 ![Portfolio Gallery](Images/Portfolio_Gallery.png)
 
-    * **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
+        * **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
 
     6. When you create a website, it's standard practice to code your HTML files before writing any CSS and to write up one HTML file before moving onto the next. Write your HTML semantically, too:
 
@@ -119,8 +119,9 @@ In this assignment, we were tasked to create a portfolio page that has an index,
     2. You can use [Adobe Kuler](https://color.adobe.com/create/color-wheel/) to find colors that match the theme (in this case, the primary color is Teal `#4aaaa5`).
 
     3. Make a "sticky footer." You will notice the dark grey footer will always rest just below the content. This is fine whenever your site has enough content to push it down past the height of most monitors. But if there isn't much content in the body, the footer could rest in the middle of the page:
-    ![No sticky footer](Images/bonus_nosticky.jpg)
-    ![Has sticky footer](Images/bonus_stickyfooter.jpg)
+   ![No sticky footer](Images/bonus_nosticky.jpg)
+   ![Has sticky footer](Images/bonus_stickyfooter.jpg)
+   
     * Try to code the footer in a way that it will always remain at the bottom of the page, no matter how short the content is. A sticky footer tutorial can be found [here](http://mystrd.at/modern-clean-css-sticky-footer/).
 
 
